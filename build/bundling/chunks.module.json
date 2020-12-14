@@ -1,0 +1,129 @@
+{
+  "errors": [],
+  "warnings": [],
+  "version": "4.44.2",
+  "hash": "94e27c2c2914e0422f3f",
+  "publicPath": "/static/",
+  "outputPath": "C:\\Users\\Usuario\\Documents\\Frontity\\caretas-2021\\build\\static",
+  "assetsByChunkName": {
+    "caretas-2021": "caretas-2021.module.js",
+    "list": "list.module.js"
+  },
+  "assets": [
+    {
+      "name": "caretas-2021.module.js",
+      "size": 6084794,
+      "chunks": [
+        "caretas-2021"
+      ],
+      "chunkNames": [
+        "caretas-2021"
+      ],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "fonts/Oswald-Medium.ttf",
+      "size": 91648,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "fonts/PTSerif-Bold.ttf",
+      "size": 195776,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "fonts/PTSerif-BoldItalic.ttf",
+      "size": 193272,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "fonts/PTSerif-Italic.ttf",
+      "size": 231828,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "fonts/PTSerif-Regular.ttf",
+      "size": 215096,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "images/logo_caras.png",
+      "size": 5097,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "list.module.js",
+      "size": 2575,
+      "chunks": [
+        "list"
+      ],
+      "chunkNames": [
+        "list"
+      ],
+      "info": {},
+      "emitted": false
+    }
+  ],
+  "filteredAssets": 0,
+  "entrypoints": {
+    "caretas-2021": {
+      "chunks": [
+        "caretas-2021"
+      ],
+      "assets": [
+        "caretas-2021.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "namedChunkGroups": {
+    "caretas-2021": {
+      "chunks": [
+        "caretas-2021"
+      ],
+      "assets": [
+        "caretas-2021.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "list": {
+      "chunks": [
+        "list"
+      ],
+      "assets": [
+        "list.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "logging": {
+    "webpack.buildChunkGraph.visitModules": {
+      "entries": [],
+      "filteredEntries": 5,
+      "debug": false
+    }
+  },
+  "children": []
+}

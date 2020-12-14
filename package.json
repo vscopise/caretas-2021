@@ -1,0 +1,34 @@
+{
+  "name": "caretas-2021",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Frontity project",
+  "keywords": [
+    "frontity"
+  ],
+  "engines": {
+    "node": ">=10.0.0",
+    "npm": ">=6.0.0"
+  },
+  "scripts": {
+    "dev": "frontity dev",
+    "build": "frontity build",
+    "serve": "frontity serve"
+  },
+  "prettier": {},
+  "dependencies": {
+    "@frontity/core": "^1.9.1",
+    "@frontity/google-ad-manager": "^0.1.2",
+    "@frontity/html2react": "^1.5.0",
+    "@frontity/mars-theme": "./packages/mars-theme",
+    "@frontity/tiny-router": "^1.2.3",
+    "@frontity/wp-comments": "^0.2.4",
+    "@frontity/wp-source": "^1.10.0",
+    "caretas-2021-theme": "file:packages/caretas-2021-theme",
+    "frontity": "^1.13.0",
+    "react-spring": "^8.0.27"
+  },
+  "devDependencies": {
+    "react-social-icons": "^4.1.0"
+  }
+}
